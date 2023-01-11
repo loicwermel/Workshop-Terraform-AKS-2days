@@ -9,7 +9,7 @@ variable "azureRegion" {
 #  Resource Group Name
 variable "resourceGroupName" {
   type    = string
-  default = "lwr-rg-formation"
+  default = "lwr-rg-formation3"
 }
 
 
